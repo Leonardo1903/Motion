@@ -7,7 +7,7 @@ export default function Home() {
       <div>
         <button>
           <Link href="/basics">
-            <p className="text-cyan-500 hover:text-cyan-700 transition duration-300">
+            <p className="text-neutral-500 px-12 py-4 rounded-lg bg-black shadow-[0px_1px_2px_0px_rgba(255,255,255,0.1)_inset,0px_-1px_2px_0px_rgba(255,255,255,0.1)_inset]">
               Go to Basics
             </p>
           </Link>
