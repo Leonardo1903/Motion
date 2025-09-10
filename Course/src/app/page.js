@@ -22,6 +22,26 @@ export default function Home() {
             Go to Exit Animations
           </p>
         </Link>
+        <Link href="/variant">
+          <p className="text-neutral-500 px-10 py-2 rounded-lg bg-black shadow-[0px_1px_2px_0px_rgba(255,255,255,0.1)_inset,0px_-1px_2px_0px_rgba(255,255,255,0.1)_inset] text-center">
+            Go to  Variants
+          </p>
+        </Link>
+        <Link href="/hooks">
+          <p className="text-neutral-500 px-10 py-2 rounded-lg bg-black shadow-[0px_1px_2px_0px_rgba(255,255,255,0.1)_inset,0px_-1px_2px_0px_rgba(255,255,255,0.1)_inset] text-center">
+            Go to Hooks
+          </p>
+        </Link>
+        <Link href="/layouts">
+          <p className="text-neutral-500 px-10 py-2 rounded-lg bg-black shadow-[0px_1px_2px_0px_rgba(255,255,255,0.1)_inset,0px_-1px_2px_0px_rgba(255,255,255,0.1)_inset] text-center">
+            Go to Layout
+          </p>
+        </Link>
+        <Link href="/sequence">
+          <p className="text-neutral-500 px-10 py-2 rounded-lg bg-black shadow-[0px_1px_2px_0px_rgba(255,255,255,0.1)_inset,0px_-1px_2px_0px_rgba(255,255,255,0.1)_inset] text-center">
+            Go to Animation Sequences
+          </p>
+        </Link>
       </div>
     </div>
   );
